@@ -4,7 +4,7 @@ ABALONE_DECISIONTREE_C4-5: A procedure is attached that uses the Abalone file (h
 
 The values of each field have been associated with indices, which can encompass several real values. the values of these indices are those that have been considered afterr the calculation of entropies and for making a branching of values at each node.
 
-A hit rate of around 58% is obtained, that is, in the low range of the existing procedures to treat this multiclass file, which are detailed in the documentation to download from https://archive.ics.uci.edu/ml/ datasets / abalone
+A hit rate of around 58% is obtained, that is, in the low range of the existing procedures to treat this multiclass file, which are detailed in the documentation to download from https://archive.ics.uci.edu/ml/datasets/abalone
 
 The depth of the tree has been increased without obtaining significant improvements. Nor has it been significantly improved by applying adaboost.
  
