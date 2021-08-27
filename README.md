@@ -19,7 +19,7 @@ From Spyder run:
 
 AbaloneDecisionTree_C4-5-ThreeLevels.py
 
-The screen indicates the number of hits and failures and in the file C:\AbaloneCorrected.txt the records of the test file (records 3133 to 4177 of abalone-1.data) with an indication of whether their predicted class values ??coincide with the reals, the predicted class value and the order number of the record in abalone-1.data
+The screen indicates the number of hits and failures and in the file C:\AbaloneCorrected.txt the records of the test file (records 3133 to 4177 of abalone-1.data) with an indication of whether their predicted class values coincide with the reals, the predicted class value and the order number of the record in abalone-1.data
 
 The following programs are also attached: AbaloneDecisionTree_ID3.py and AbaloneDecisionTree_C4-5_parameters.py that have served to calculate the necessary parameters to build the tree.
 
