@@ -1,8 +1,8 @@
 ABALONE_DECISIONTREE_C4-5: A procedure is attached that uses the Abalone file (https://archive.ics.uci.edu/ml/datasets/abalone) as test and training .
 
- After evaluating the entropy of each field, a tree has been built with the nodes corresponding to fields 0, 7 and 4 and branch values ??in each node: 1 for the root node corresponding to field 0, 29 for the next node in the hierarchy corresponding to field 7, and 33 in the last node corresponding to field 4.
+ After evaluating the entropy of each field, a tree has been built with the nodes corresponding to fields 0, 7 and 4 and branch values in each node: 1 for the root node corresponding to field 0, 29 for the next node in the hierarchy corresponding to field 7, and 33 in the last node corresponding to field 4.
 
-The values of each field have been associated with indices, which can encompass several real values. the values ??of these indices are those that have been considered for the calculation of entropies and for making a branching of values ??at each node.
+The values of each field have been associated with indices, which can encompass several real values. the values of these indices are those that have been considered afterr the calculation of entropies and for making a branching of values at each node.
 
 A hit rate of around 58% is obtained, that is, in the low range of the existing procedures to treat this multiclass file, which are detailed in the documentation to download from https://archive.ics.uci.edu/ml/ datasets / abalone
 
